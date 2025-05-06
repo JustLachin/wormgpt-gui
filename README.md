@@ -4,6 +4,8 @@ A modern, cyber-themed GUI interface for WormGPT built with PyQt6. Features a Ma
 
 ![WormGPT Interface](https://raw.githubusercontent.com/JustLachin/wormgpt-gui/refs/heads/main/preview.png)
 
+# Download .EXE 👇 https://github.com/JustLachin/wormgpt-gui/releases/download/v2.0/WormGPT.zip
+
 ## ✨ Features
 
 - 🎨 Modern, cyber-themed interface
