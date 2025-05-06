@@ -2,7 +2,7 @@
 
 A modern, cyber-themed GUI interface for WormGPT built with PyQt6. Features a Matrix-style animation background and a sleek chat interface.
 
-![WormGPT Interface](https://raw.githubusercontent.com/JustLachin/wormgpt-gui/main/screenshots/preview.png)
+![WormGPT Interface](https://raw.githubusercontent.com/JustLachin/wormgpt-gui/refs/heads/main/preview.png)
 
 ## ✨ Features
 
